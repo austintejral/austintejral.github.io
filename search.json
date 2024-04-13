@@ -7,18 +7,18 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "big-ten-recruiting-post/index.html",
-    "href": "big-ten-recruiting-post/index.html",
-    "title": "Big Ten Recruiting Post",
-    "section": "",
-    "text": "No one can argue that the most important part of college football is the players. Good players, good football team, right?"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
     "text": "Hello, My Name is Austin Tejral, and I am a junior at the University of Nebraska-Lincoln. I am majoring in Sports Media and Communications, and looking to increase my sports data and analytics knowledge through this blog."
+  },
+  {
+    "objectID": "big-ten-recruiting-post/index.html",
+    "href": "big-ten-recruiting-post/index.html",
+    "title": "Big Ten Recruiting Post",
+    "section": "",
+    "text": "No one can argue that the most important part of college football is the players. Good players, good football team, right?"
   },
   {
     "objectID": "posts/post-with-code/index.html",
